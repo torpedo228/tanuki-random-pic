@@ -1,3 +1,14 @@
+// const PORT = process.env.PORT || 8000
+// const express = require('express');
+// const axios = require('axios');
+// const cheerio = require('cheerio');
+// const app = express();
+
+// app.get('/', (req, res) => {
+// 	res.json('狸貓產生器!!');
+// });
+
+
 const imageArray = [
   "./img/小狸貓偕同未整形二狸貓.png",
   "./img/小狸貓可愛愛.png",

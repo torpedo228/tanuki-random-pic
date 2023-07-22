@@ -7,7 +7,8 @@ body {
   background-color: purple;
 }
 
-h1,h2{
+h1,
+h2 {
   margin: 20px;
 }
 
@@ -29,7 +30,7 @@ header {
     text-decoration: none;
     cursor: pointer;
     border-radius: 40px;
-    font-size: 2vw;
+    font-size: 40px;
     font-weight: bold;
     color: purple;
     background-color: gold;
@@ -56,7 +57,7 @@ section {
     color: gold;
   }
 
-  a{
+  a {
     display: block;
     width: 300px;
     height: 300px;
@@ -64,7 +65,7 @@ section {
 
   img {
     cursor: pointer;
-width: 100%;
+    width: 100%;
 
     &:hover {
       transform: scale(1.5);
